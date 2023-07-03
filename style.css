@@ -1,0 +1,12 @@
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+    border-radius: 4px;
+    border-color: blue;
+    box-shadow: lightgreen;
+    margin: center;
+}
